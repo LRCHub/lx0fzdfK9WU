@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "TOUBOU",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-19T11:31:56.189423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOUBOU",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/01_TOUBOU_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOUBOU",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_TOUBOU_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TOUBOU (Inst.)",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/03_TOUBOU_(Inst.)_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "08. Toubou",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/04_08._Toubou_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOUBOU",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_TOUBOU_DUSTCELL.txt"
+    }
+  ]
+}
